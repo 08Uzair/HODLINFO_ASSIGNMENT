@@ -14,7 +14,7 @@ The webpage mimics the design and functionality of hodlinfo.com with an identica
 ## 🚀 **Features**
 - 🌟 **Frontend** built with HTML and CSS, replicating the hodlinfo.com interface.
 - ⚙️ **Backend** built with Node.js and Express.js.
-- 📊 Fetches top 10 cryptocurrency results from the **WazirX API** and stores relevant data in a **PostgreSQL** database.
+- 📊 Fetches top 10 cryptocurrency results from the **WazirX API** and stores relevant data in a **MongoDB** database.
 - 🛠️ Provides an API route to retrieve the stored data and display it on the frontend.
 
 ---
